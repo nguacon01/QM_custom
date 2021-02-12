@@ -39,6 +39,7 @@ class Jobs(object):
             loc, name = os.path.split(job_path)
             job = Job(loc=loc, name=name)
             jobs_data.append(job)
-
-        return jobs_data
+        if len(jobs_data) == 0:
+            return jobs_data
+        return jobs_data.reverse()
     

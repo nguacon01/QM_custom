@@ -7,7 +7,6 @@ import logging
 from xml.sax import handler, make_parser
 from datetime import datetime, timedelta
 import subprocess
-# from . import debug
 from . import XmlInfo
 from .helpers import utf8lize
 
