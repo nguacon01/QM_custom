@@ -1,0 +1,13 @@
+b12/*
+QM_files/*
+*.pyc
+*.tgz
+*.tar.gz
+*.pdf
+*.log
+env/
+job_EUFT/Launch.cfg
+job_EUFT/LaunchEUFTICR.py
+job_EUFT/README.md
+QueueManager.log
+QMserv.cfg
