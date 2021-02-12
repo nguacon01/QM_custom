@@ -39,7 +39,7 @@ This code is Licenced under the [Cecill 2.1](http://www.cecill.info/licences/Lic
 ### program installation
 simply download the repository anywhere on your disk
 
-`git clone https://github.com/delsuc/QM.git`
+`git clone https://github.com/nguacon01/QM_custom.git`
 
 should do it
 
@@ -223,7 +223,7 @@ where
 
 # contact
 
-This code has been written by Marc-André Delsuc (madelsuc@unistra.fr).
+This code has been written by Marc-André Delsuc (madelsuc@unistra.fr) and customed by DO Manh Dung (dungdm6191@gmail.com)
 
 # Remarks
 This is a preliminary version. There are still bugs and missing features
